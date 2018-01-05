@@ -1,0 +1,28 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "Constructor Hangman Game ",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyleconnolly1020/Constructor-Hangman.git"
+  },
+  "keywords": [
+    "hangman",
+    "node",
+    "javascript"
+  ],
+  "author": "Kyle Connolly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyleconnolly1020/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/kyleconnolly1020/Constructor-Hangman#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "inquirer": "^4.0.2"
+  }
+}
